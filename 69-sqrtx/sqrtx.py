@@ -5,8 +5,7 @@ class Solution:
                 return i
             if i*i > x:
                 return i - 1
-        if x == 0:
-            return 0
+       
             
 
         
